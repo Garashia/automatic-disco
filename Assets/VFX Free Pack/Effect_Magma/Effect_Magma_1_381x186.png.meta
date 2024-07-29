@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 2f5275b334ae91d4b9c432f0b6887da1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e8afa5fb412245b011f2833ef89c4
+      internalID: 1272060716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fbca8dd88a7fd4baf3f953386e8b65
+      internalID: 355431015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f4b0a692ab47844952cb705ea3413f
+      internalID: 826550546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_3
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6063c0978d5d94fba32372fbdcfeb3
+      internalID: 1070473881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_4
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d863535c08f15478d15464b4d5d72f
+      internalID: -850044514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_5
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc207fefc3a48994a90f66a2508895cf
+      internalID: 91989356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_6
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1f33a5bcbf8df499264b645c4e49c4
+      internalID: -335645757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_7
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ca45094e7140438048359fb4ba212
+      internalID: 673964197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_8
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1116
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bd857df549a774c997b3a2332b2c37
+      internalID: 232497310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d522d9a46d5895a459b64b6321ce7fa7
+      internalID: 2040804780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efabbdb037282d4dbca736299c61cb1
+      internalID: 74245881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_11
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc504904f2b814486eeba65a9252f7
+      internalID: 1693660200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_12
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b23e14251eb4a40a22f8f857485cf6
+      internalID: 2048025948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_13
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb0a7bc76650144bf9252909752e2b
+      internalID: -677834884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_14
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713c96788b024f44297741ca88f6d729
+      internalID: -738663255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_15
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6800fc8fa28d5734abcf5f48bb811e3b
+      internalID: -978096147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_16
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec04b701369ead46b5d3ad950510836
+      internalID: 781241641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_17
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 930
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88287b9e3851a42a659dc350fe589f
+      internalID: 1391004422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b2404627a3ab248a7f23c34ffc7f07
+      internalID: 464975929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbe1f91a0f269141bc30d853ee7e059
+      internalID: 417435288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_20
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16703035cd70fbe4aa162099f93f73cf
+      internalID: -1333757452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_21
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12efa63d1579a1844b406dc95f74e5c8
+      internalID: 1825213805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_22
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2acbb3b99ec3849899f3f146364bb2
+      internalID: -1295252204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_23
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fe1077ef81d8e478eb2973490cf621
+      internalID: 288623590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_24
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba97aa3a2605548aec9066a28bb580
+      internalID: -1486657758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_25
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a868021d941a42987ba9584c8c139
+      internalID: -1005214767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_26
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 744
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e821bf1d02fee24d85c8248adb7eab0
+      internalID: 1980338329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b04c26da49d99f4eb1b09ccf55e9776
+      internalID: -1683690926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_28
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e72964c879b545bca77f5f684ebb2
+      internalID: 1429403554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_29
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a381d291dfdaf694ebe7e1265c8a9326
+      internalID: -11769444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_30
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a8fde99a6a5d4db9927fe98220c26
+      internalID: 1746650003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_31
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a061476f3d1004da9f00619383b70f
+      internalID: 1801380325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_32
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b033c74080bcab4eb97ae541b58c967
+      internalID: 1283125772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_33
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3013de171ebdea4f8538151964a55f5
+      internalID: -178312206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_34
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1580198e3e931fd47aeaec53d1ae85a4
+      internalID: 2014581328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_35
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 558
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf54dd0648ab0341b4d88a80cda6a95
+      internalID: -1851412172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee7484bc865b148800da3cd6a43993
+      internalID: -2034487751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_37
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b387250c7deddb74086d20259c73040b
+      internalID: 1719688353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_38
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c357d3d5be81464b8aefd2ba079d3dd
+      internalID: 1465958530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_39
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bbd6265b8c7ee409b6ea3826e353d6
+      internalID: -2059672030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_40
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a8adb6901278f43899e2f0a92f2da3
+      internalID: -168437310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_41
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723fccfc985722144b4f9a0095d7c073
+      internalID: -1775608897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_42
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f94221d32c3092448b7cc2a44297c8d
+      internalID: -2118646492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_43
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212e3ae4a7acdcc45b0a68e48117cf82
+      internalID: -1609974727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_44
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 372
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014bff63d4d548b4d9c4b979da1230af
+      internalID: 169917497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6106002e60933d4aaa4cd7297b519ba
+      internalID: 592638338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_46
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21a7d67c0eb5247accb78dd9594ec7
+      internalID: 1656754442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_47
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9198fc24a6070284daac62a5d56b2c54
+      internalID: 1578947883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_48
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1cfb301493d8749ad203baf9026e9d
+      internalID: 1458002619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_49
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5517e5117bbb1d4f8bfd0650302c292
+      internalID: -538608127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_50
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628ac351c1823644992550a98f46494d
+      internalID: -1615580465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_51
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9325e412b442d4f8cc0bc724cbe0ef
+      internalID: 920286759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_52
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a499b21c46a84eafb2bc05ae46d02
+      internalID: -1222893812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_53
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 186
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2523ca0db79f784b98b1f38b934bcdb
+      internalID: 1026590981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b32fef64b49d64e807d34827c5628e
+      internalID: 1097020556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_55
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1548aec84614fe4e8c954b92e68e974
+      internalID: 568387331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_56
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6de49dc96935048817470e3bdc5d6a
+      internalID: -2012014006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_57
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 0
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c4b75171f2fa248a49fa548fe50bc5
+      internalID: -2139766999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_58
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2b69631c66014cbd6a371b9a82479
+      internalID: 2083363176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Magma_1_381x186_59
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 0
+        width: 381
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d0896bddee954e9dbec2b186f870e
+      internalID: 672165620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_Magma_1_381x186_0: 1272060716
+      Effect_Magma_1_381x186_1: 355431015
+      Effect_Magma_1_381x186_10: 74245881
+      Effect_Magma_1_381x186_11: 1693660200
+      Effect_Magma_1_381x186_12: 2048025948
+      Effect_Magma_1_381x186_13: -677834884
+      Effect_Magma_1_381x186_14: -738663255
+      Effect_Magma_1_381x186_15: -978096147
+      Effect_Magma_1_381x186_16: 781241641
+      Effect_Magma_1_381x186_17: 1391004422
+      Effect_Magma_1_381x186_18: 464975929
+      Effect_Magma_1_381x186_19: 417435288
+      Effect_Magma_1_381x186_2: 826550546
+      Effect_Magma_1_381x186_20: -1333757452
+      Effect_Magma_1_381x186_21: 1825213805
+      Effect_Magma_1_381x186_22: -1295252204
+      Effect_Magma_1_381x186_23: 288623590
+      Effect_Magma_1_381x186_24: -1486657758
+      Effect_Magma_1_381x186_25: -1005214767
+      Effect_Magma_1_381x186_26: 1980338329
+      Effect_Magma_1_381x186_27: -1683690926
+      Effect_Magma_1_381x186_28: 1429403554
+      Effect_Magma_1_381x186_29: -11769444
+      Effect_Magma_1_381x186_3: 1070473881
+      Effect_Magma_1_381x186_30: 1746650003
+      Effect_Magma_1_381x186_31: 1801380325
+      Effect_Magma_1_381x186_32: 1283125772
+      Effect_Magma_1_381x186_33: -178312206
+      Effect_Magma_1_381x186_34: 2014581328
+      Effect_Magma_1_381x186_35: -1851412172
+      Effect_Magma_1_381x186_36: -2034487751
+      Effect_Magma_1_381x186_37: 1719688353
+      Effect_Magma_1_381x186_38: 1465958530
+      Effect_Magma_1_381x186_39: -2059672030
+      Effect_Magma_1_381x186_4: -850044514
+      Effect_Magma_1_381x186_40: -168437310
+      Effect_Magma_1_381x186_41: -1775608897
+      Effect_Magma_1_381x186_42: -2118646492
+      Effect_Magma_1_381x186_43: -1609974727
+      Effect_Magma_1_381x186_44: 169917497
+      Effect_Magma_1_381x186_45: 592638338
+      Effect_Magma_1_381x186_46: 1656754442
+      Effect_Magma_1_381x186_47: 1578947883
+      Effect_Magma_1_381x186_48: 1458002619
+      Effect_Magma_1_381x186_49: -538608127
+      Effect_Magma_1_381x186_5: 91989356
+      Effect_Magma_1_381x186_50: -1615580465
+      Effect_Magma_1_381x186_51: 920286759
+      Effect_Magma_1_381x186_52: -1222893812
+      Effect_Magma_1_381x186_53: 1026590981
+      Effect_Magma_1_381x186_54: 1097020556
+      Effect_Magma_1_381x186_55: 568387331
+      Effect_Magma_1_381x186_56: -2012014006
+      Effect_Magma_1_381x186_57: -2139766999
+      Effect_Magma_1_381x186_58: 2083363176
+      Effect_Magma_1_381x186_59: 672165620
+      Effect_Magma_1_381x186_6: -335645757
+      Effect_Magma_1_381x186_7: 673964197
+      Effect_Magma_1_381x186_8: 232497310
+      Effect_Magma_1_381x186_9: 2040804780
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

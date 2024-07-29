@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: e670cb076b627004c8c61ef1e4c12078
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742a47e5b2d034d4b8e67f9f6bc3eb6e
+      internalID: -118113655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4658aa9ddf657014786ee4781f477562
+      internalID: -1992254885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f70363b8617544e9ddb6807e9fd720
+      internalID: -858277013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_3
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caeeed8f900c93428210e087ad0a6c8
+      internalID: -399821934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_4
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186ee09f3e2e874499a72e27a01aabc7
+      internalID: -501546551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_5
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822c760d587da8b4c95ac0655a25d07d
+      internalID: -620218220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_6
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d05f8ebcadc74448d145cdd412b6c1
+      internalID: -716248690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_7
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a554b0aeb62f24fb6b07af8f66bc43
+      internalID: -1077075567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_8
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2622
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cbd0ca971a4f84da1babcadbc4c301
+      internalID: 1043052422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60d718d674869f4faa73a23db9ca857
+      internalID: 1664267154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a8319c6915a14b9dce6bc6efd0e59
+      internalID: 560542852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b04c0a921cd1fd42ad7e080a2f99564
+      internalID: 260933420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_12
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd17652b6d20c4db5e33b2105ec6c7
+      internalID: -1830279735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fdf8843ace9074793f3059e082f41b
+      internalID: 1986172270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_14
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb2782d72745f34e86f8a1d1887b19e
+      internalID: -871521632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_15
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5832bed896418241998383e6cb28575
+      internalID: -1510804435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_16
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e65512eed23e4eadc2c1a619b64ed
+      internalID: 588052250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_17
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2185
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae02659d7369148955af8d08d92c50
+      internalID: -1602176365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaefff4d8ab6414e9a006f29c1c632e
+      internalID: -1866304752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df3c198ae8f105449b6521b54586292
+      internalID: 1169156255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_20
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7a7cb6c02157c47819e390ac2c9813
+      internalID: -1312396643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_21
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15403abafa4ded648903d25c6834cc4b
+      internalID: 1873945196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613cc6048caa2f54ca079979fdecdedf
+      internalID: 519103509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_23
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caa80f8f165aa5439d89d6a77276738
+      internalID: -1386829934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_24
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36535ade15112f24489841b1463dcecc
+      internalID: -1247297034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_25
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f8bf8d9a7ae3d44b78815b49575de0
+      internalID: -212796185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_26
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1748
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be579445333bef846a0f20ad7f9d41e3
+      internalID: -1082520971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd47fb0dac5e54abd8be110458ad48
+      internalID: -1670224294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f5667a83865f40a73749f59957fc2
+      internalID: 2079405157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_29
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab0b760fef43f94e8401923a42bb9cf
+      internalID: -1245790332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_30
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62cd910fdbafcf4b9393c220e0c224c
+      internalID: -45602182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_31
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a56d9a238194843b9c1111b79013f9
+      internalID: 2138959318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_32
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc645784bc809e4e8174390c2bcb3f4
+      internalID: -2104485507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_33
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d07fa3f334c46b48989e38bbd770036
+      internalID: -472295582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_34
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a161b67101907b428277010107d6270
+      internalID: -584627018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_35
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1311
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ab408b24be9d944ae0e3877c69d98d
+      internalID: -727295327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974df19b464b1c946afa5f610a6c8438
+      internalID: -2128938033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_37
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036de12dac64c0148b5a27e39d6a8aae
+      internalID: -873654629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_38
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c379362ea5314f8adf0201cb04ea7
+      internalID: -335942639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_39
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a92dd80aeadcd242b59b82233d9210b
+      internalID: -1126508916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_40
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5a9ff940efdfa49857cb9ecacc39ba
+      internalID: -833015896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_41
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49deaffae298f9408d85f607d53159e
+      internalID: -1604498447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_42
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b5c72dc76eb324cb725caecc4c1b01
+      internalID: -1233532585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_43
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b980c2792dd33024ea4ccec2d6450737
+      internalID: -1781569098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_44
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 874
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17783ae53c6d3174887e2bc4170177f7
+      internalID: 2031535335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc48e067cb0beb40a93b620654715ad
+      internalID: -1975501907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_46
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3238b29e8a0b7459da1061ae44f235
+      internalID: 1506243566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_47
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f98d0cb77e2664e934868b05681aaa
+      internalID: 2081529092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_48
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f87018998c0c8743bc4103e2eeb8367
+      internalID: -2003825517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_49
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6cf2181d029f049bf7c823da5a6a55
+      internalID: 1797030211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_50
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04b820d81637164581dc3fb059675ed
+      internalID: 2087538438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_51
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffcb3c9bc790dc47aed3e74b77e0d7a
+      internalID: 98555050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_52
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce185a4fd4532724c827d77709912b48
+      internalID: 1571793197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_53
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 437
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778b1a4d9ebc61848a12438bf3f0ce90
+      internalID: -412801771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84311aa564b90244da6adc7411f6c872
+      internalID: 272331502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_55
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217052332426c847b2ffecfc8b96b08
+      internalID: 593368839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_56
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d02f1b9ba5cf0438c6bb45049b85b2
+      internalID: 329069283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_57
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f0be4a0503af940b2a84fd436ee991
+      internalID: -821913172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_58
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e54e1323f60247a3a46033c6b618b
+      internalID: -2097278569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Anima_1_429x437_59
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 0
+        width: 429
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2b78f84bc6e7d4e8526b5fb9e2b220
+      internalID: 1882971957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_Anima_1_429x437_0: -118113655
+      Effect_Anima_1_429x437_1: -1992254885
+      Effect_Anima_1_429x437_10: 560542852
+      Effect_Anima_1_429x437_11: 260933420
+      Effect_Anima_1_429x437_12: -1830279735
+      Effect_Anima_1_429x437_13: 1986172270
+      Effect_Anima_1_429x437_14: -871521632
+      Effect_Anima_1_429x437_15: -1510804435
+      Effect_Anima_1_429x437_16: 588052250
+      Effect_Anima_1_429x437_17: -1602176365
+      Effect_Anima_1_429x437_18: -1866304752
+      Effect_Anima_1_429x437_19: 1169156255
+      Effect_Anima_1_429x437_2: -858277013
+      Effect_Anima_1_429x437_20: -1312396643
+      Effect_Anima_1_429x437_21: 1873945196
+      Effect_Anima_1_429x437_22: 519103509
+      Effect_Anima_1_429x437_23: -1386829934
+      Effect_Anima_1_429x437_24: -1247297034
+      Effect_Anima_1_429x437_25: -212796185
+      Effect_Anima_1_429x437_26: -1082520971
+      Effect_Anima_1_429x437_27: -1670224294
+      Effect_Anima_1_429x437_28: 2079405157
+      Effect_Anima_1_429x437_29: -1245790332
+      Effect_Anima_1_429x437_3: -399821934
+      Effect_Anima_1_429x437_30: -45602182
+      Effect_Anima_1_429x437_31: 2138959318
+      Effect_Anima_1_429x437_32: -2104485507
+      Effect_Anima_1_429x437_33: -472295582
+      Effect_Anima_1_429x437_34: -584627018
+      Effect_Anima_1_429x437_35: -727295327
+      Effect_Anima_1_429x437_36: -2128938033
+      Effect_Anima_1_429x437_37: -873654629
+      Effect_Anima_1_429x437_38: -335942639
+      Effect_Anima_1_429x437_39: -1126508916
+      Effect_Anima_1_429x437_4: -501546551
+      Effect_Anima_1_429x437_40: -833015896
+      Effect_Anima_1_429x437_41: -1604498447
+      Effect_Anima_1_429x437_42: -1233532585
+      Effect_Anima_1_429x437_43: -1781569098
+      Effect_Anima_1_429x437_44: 2031535335
+      Effect_Anima_1_429x437_45: -1975501907
+      Effect_Anima_1_429x437_46: 1506243566
+      Effect_Anima_1_429x437_47: 2081529092
+      Effect_Anima_1_429x437_48: -2003825517
+      Effect_Anima_1_429x437_49: 1797030211
+      Effect_Anima_1_429x437_5: -620218220
+      Effect_Anima_1_429x437_50: 2087538438
+      Effect_Anima_1_429x437_51: 98555050
+      Effect_Anima_1_429x437_52: 1571793197
+      Effect_Anima_1_429x437_53: -412801771
+      Effect_Anima_1_429x437_54: 272331502
+      Effect_Anima_1_429x437_55: 593368839
+      Effect_Anima_1_429x437_56: 329069283
+      Effect_Anima_1_429x437_57: -821913172
+      Effect_Anima_1_429x437_58: -2097278569
+      Effect_Anima_1_429x437_59: 1882971957
+      Effect_Anima_1_429x437_6: -716248690
+      Effect_Anima_1_429x437_7: -1077075567
+      Effect_Anima_1_429x437_8: 1043052422
+      Effect_Anima_1_429x437_9: 1664267154
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 8ffdcf7f5c640884da999a9f080220d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b0e5c450e8e61499336da88b0670a3
+      internalID: -1280641045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224162ba4379e345bdb37bcce351b53
+      internalID: 1252510569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7bf6e0b3e59ba429ea37bcfc89b5f1
+      internalID: -2095576500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_3
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189befcf3795b4a42afd1692a7719b95
+      internalID: -169291634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_4
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45395235649b03245b5083d2513694f9
+      internalID: 1126661750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_5
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc059ca1ac3017848a84bf60fa4635a0
+      internalID: 2066276986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_6
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec47bf14891970499a763e9347d6330
+      internalID: 616477104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_7
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c39e2fd2f7e43488d4f9064d78d7f4
+      internalID: -164605606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_8
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2118
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c0532751bee7e4a81e97444601c2b0
+      internalID: 1180483769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093bf910413f990478f5acc7aed53d80
+      internalID: 1781675069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9ab6b4c34d4a439748941d5ed6c53
+      internalID: 1759569355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_11
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2078fcb4dafe34389a8f1290cf1a79
+      internalID: 1929533555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_12
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30cb94cc2d548489214ef47b0b5d52
+      internalID: 34403287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_13
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc7718b9b1b934d9611a16a64030db
+      internalID: 263244841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_14
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4329b3749d65e54796d024b43246a82
+      internalID: 111915399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_15
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661074bbf957af6448d90b1fc9f68632
+      internalID: 1965943993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_16
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9993d4c1cd3fcf49ae7aa9c7a12e3d9
+      internalID: 1870174023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_17
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1765
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff80bf0383fc4a42aee0b4f311fec93
+      internalID: -2134581925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfd68d456f23c047afff343dd487318
+      internalID: 1002000535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceed7a7b3753334f94a3aa837a3dc6b
+      internalID: -1617153434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe82b0321aba4f948ad5b2e12f701597
+      internalID: -1385501960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_21
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a217f54e00c68419e3009e7750452a
+      internalID: -877413386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_22
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36cad74fe6c8b14d89c67367e2e9423
+      internalID: 1848399077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_23
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04f98fc6f995834e9b29ce6152b4b9d
+      internalID: -1326460573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_24
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ac11ae8080b6479357ec7dc0ee149
+      internalID: -1735995227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_25
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bd65db3983338498078138ea7a52c6
+      internalID: -1739450865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_26
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1412
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d261addeb79411f4099bf38a0fe45940
+      internalID: -2023751902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a672f1c59ce945bef283d5d52358f
+      internalID: 1987089848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_28
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9a138ec2af4c843a50139c1225b82b
+      internalID: -1101242322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_29
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b5bbff8b1d5e4eacd375e26a26aea
+      internalID: -1228471749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_30
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5093dc02aa9364aae5a3060fef26a5
+      internalID: -633540211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_31
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be419c4b88a6b449bc006378114e655
+      internalID: -1957830866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_32
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a596b38a4b9f02f46bf8f3d704eae467
+      internalID: 939660856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_33
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3056daea8609e34babde5e9feb80db8
+      internalID: 663056579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_34
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5783b38d8abe234b9b34f1c21fe621a
+      internalID: -259820842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_35
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1059
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a46f1dbcf73824cb5dfd3889148a0e
+      internalID: 251605577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a143019426038e149ab73d8def7da7bb
+      internalID: 1099730555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_37
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb24fc3e93c208b4ab47f53358e8ab39
+      internalID: -779631856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_38
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90cdbf6dc0ac445883c051a6c4b899
+      internalID: -1094437492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_39
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3356365e36f793438ad991f614f061e
+      internalID: 1296144180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_40
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09c511e05ff80d4793dd8d452b5096b
+      internalID: -1047409339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_41
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47c08ab94d4d94d8f3c33a7f6cb41f
+      internalID: -766763589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_42
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbebc637f137db4c862a773912ea205
+      internalID: 1908033847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_43
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b44a21842fe74a920f3f4a684b67b
+      internalID: -611510424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_44
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 706
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cbad951749a374eb1aae2f0c15e1c7
+      internalID: 373603704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b751dd70940264e92d09cfe00bc379
+      internalID: 1717113999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_46
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc02c3dde860b2946a166b4f89540495
+      internalID: 1477065313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_47
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8718a18ecf52ef240a4e258ac6c13f8a
+      internalID: 1073487816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_48
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6ac84f70ba00c4f8ec1c28fd02a12b
+      internalID: 1871289216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_49
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e88285641c80c4596d8f057be5db6e
+      internalID: 906031966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_50
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ac5a97b75b6a74d87777359be22951
+      internalID: -1590228593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_51
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863cb6907e85af44f9e231f7cd5f5a07
+      internalID: 348288528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_52
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74b5001a11461244b62880e82bd7756
+      internalID: -1559425083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_53
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 353
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0786670609c9f8b4b90d583ff83bcb24
+      internalID: -25785616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dbb8a4fb2f1c542bd46761cde93e2f
+      internalID: 1573807106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_55
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6f329dfd28e848979cbeb2f094978
+      internalID: -1706495667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_56
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e81fc74d79b9049ac1c8e4e8876ab2
+      internalID: 1676890754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_57
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937547c0bf83de74ea8698016464b958
+      internalID: 1930524366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_58
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f044ec133b6e840bb0a53cd9baaa1a
+      internalID: -1846297533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_PowerChords_1_517x353_59
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 0
+        width: 517
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265bda09f96ba52469e5c4c3353e2fed
+      internalID: -312909288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_PowerChords_1_517x353_0: -1280641045
+      Effect_PowerChords_1_517x353_1: 1252510569
+      Effect_PowerChords_1_517x353_10: 1759569355
+      Effect_PowerChords_1_517x353_11: 1929533555
+      Effect_PowerChords_1_517x353_12: 34403287
+      Effect_PowerChords_1_517x353_13: 263244841
+      Effect_PowerChords_1_517x353_14: 111915399
+      Effect_PowerChords_1_517x353_15: 1965943993
+      Effect_PowerChords_1_517x353_16: 1870174023
+      Effect_PowerChords_1_517x353_17: -2134581925
+      Effect_PowerChords_1_517x353_18: 1002000535
+      Effect_PowerChords_1_517x353_19: -1617153434
+      Effect_PowerChords_1_517x353_2: -2095576500
+      Effect_PowerChords_1_517x353_20: -1385501960
+      Effect_PowerChords_1_517x353_21: -877413386
+      Effect_PowerChords_1_517x353_22: 1848399077
+      Effect_PowerChords_1_517x353_23: -1326460573
+      Effect_PowerChords_1_517x353_24: -1735995227
+      Effect_PowerChords_1_517x353_25: -1739450865
+      Effect_PowerChords_1_517x353_26: -2023751902
+      Effect_PowerChords_1_517x353_27: 1987089848
+      Effect_PowerChords_1_517x353_28: -1101242322
+      Effect_PowerChords_1_517x353_29: -1228471749
+      Effect_PowerChords_1_517x353_3: -169291634
+      Effect_PowerChords_1_517x353_30: -633540211
+      Effect_PowerChords_1_517x353_31: -1957830866
+      Effect_PowerChords_1_517x353_32: 939660856
+      Effect_PowerChords_1_517x353_33: 663056579
+      Effect_PowerChords_1_517x353_34: -259820842
+      Effect_PowerChords_1_517x353_35: 251605577
+      Effect_PowerChords_1_517x353_36: 1099730555
+      Effect_PowerChords_1_517x353_37: -779631856
+      Effect_PowerChords_1_517x353_38: -1094437492
+      Effect_PowerChords_1_517x353_39: 1296144180
+      Effect_PowerChords_1_517x353_4: 1126661750
+      Effect_PowerChords_1_517x353_40: -1047409339
+      Effect_PowerChords_1_517x353_41: -766763589
+      Effect_PowerChords_1_517x353_42: 1908033847
+      Effect_PowerChords_1_517x353_43: -611510424
+      Effect_PowerChords_1_517x353_44: 373603704
+      Effect_PowerChords_1_517x353_45: 1717113999
+      Effect_PowerChords_1_517x353_46: 1477065313
+      Effect_PowerChords_1_517x353_47: 1073487816
+      Effect_PowerChords_1_517x353_48: 1871289216
+      Effect_PowerChords_1_517x353_49: 906031966
+      Effect_PowerChords_1_517x353_5: 2066276986
+      Effect_PowerChords_1_517x353_50: -1590228593
+      Effect_PowerChords_1_517x353_51: 348288528
+      Effect_PowerChords_1_517x353_52: -1559425083
+      Effect_PowerChords_1_517x353_53: -25785616
+      Effect_PowerChords_1_517x353_54: 1573807106
+      Effect_PowerChords_1_517x353_55: -1706495667
+      Effect_PowerChords_1_517x353_56: 1676890754
+      Effect_PowerChords_1_517x353_57: 1930524366
+      Effect_PowerChords_1_517x353_58: -1846297533
+      Effect_PowerChords_1_517x353_59: -312909288
+      Effect_PowerChords_1_517x353_6: 616477104
+      Effect_PowerChords_1_517x353_7: -164605606
+      Effect_PowerChords_1_517x353_8: 1180483769
+      Effect_PowerChords_1_517x353_9: 1781675069
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

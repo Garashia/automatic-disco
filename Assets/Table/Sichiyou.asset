@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9594656b2f49526489cd1946f4d7803d, type: 3}
+  m_Name: Sichiyou
+  m_EditorClassIdentifier: 
+  m_gameObject: {fileID: 6281579348843644529, guid: cc613f8c37de22c4fbc86467a9e03588, type: 3}
+  m_sprite:
+  - name: "\u571F"
+    sprite: {fileID: 1714250076, guid: 2291d44b3e320c146a233b9fa014fb3a, type: 3}
+  - name: "\u65E5"
+    sprite: {fileID: -380179784, guid: 2291d44b3e320c146a233b9fa014fb3a, type: 3}
+  - name: "\u6708"
+    sprite: {fileID: -937183432, guid: 2291d44b3e320c146a233b9fa014fb3a, type: 3}
+  - name: "\u6728"
+    sprite: {fileID: 115757296, guid: 2291d44b3e320c146a233b9fa014fb3a, type: 3}
+  - name: "\u6C34"
+    sprite: {fileID: 1999215745, guid: 2291d44b3e320c146a233b9fa014fb3a, type: 3}
+  - name: "\u706B"
+    sprite: {fileID: -949342466, guid: 2291d44b3e320c146a233b9fa014fb3a, type: 3}
+  - name: "\u91D1"
+    sprite: {fileID: -689505925, guid: 2291d44b3e320c146a233b9fa014fb3a, type: 3}

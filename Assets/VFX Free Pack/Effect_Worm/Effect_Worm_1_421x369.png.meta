@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 7b152b970bf0e4043aae793fb4adb4ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81c221532dbd242b5c6474f3a21394
+      internalID: 293073708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5881870026e24a40859d2996d398442
+      internalID: 159801533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c0a4c837929e34393c48c45a9ff960
+      internalID: 411643359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01156d07beca83a46995d12cc54d7504
+      internalID: -419177975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_4
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c6080a8639fe48bad857627bb2192
+      internalID: 541947171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_5
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903a0826cae5d349be40a3dcb23b284
+      internalID: 529759397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_6
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968b969073646f848b1c7c06e194e342
+      internalID: 635998916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_7
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f6768b968c02f4d81a3fe7498a69a0
+      internalID: 1129869909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_8
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2214
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0ddbf2cdcf85f4e8ec1e9e52212698
+      internalID: -1606929034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb45c6a9e8ef54b99ac408d098c415
+      internalID: -413486661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0a7df9460052f40870bb114dd2acd9
+      internalID: -1228751643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9687a32c33057348bc5562b83ed1733
+      internalID: -330138642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_12
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92d538edb226c946b6a02442ba41d62
+      internalID: 1472731015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_13
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dd58fb76bca0c41979d1616288bf1d
+      internalID: 1482901570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_14
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe346881b7f0445bea8eaf6ef2b215
+      internalID: 362445221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_15
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635ebca20565a214babe47d50cd01f22
+      internalID: -393352999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_16
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4277a206826ac4894eb2f1981ff35b
+      internalID: 2040108450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_17
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1845
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7032ee2e8801b94995c653337b66701
+      internalID: -2000024473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff602f2dcd0cd084c9cb054155bdb2de
+      internalID: -490403802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3e9c64206d1f840807f4a05a8f59a9
+      internalID: -74937626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_20
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901a67b97aebae24ba56bcc353efb4dc
+      internalID: -524593096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_21
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5568b6c2defd1147b9360db5e240608
+      internalID: -2065402473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_22
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02698bf0232a54646b56417da092c677
+      internalID: 2133828134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_23
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff1d6197c2d12146842f4cd09411f4d
+      internalID: 42511041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_24
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838c26714a0a11c4f926579bd20e8627
+      internalID: -1474577638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_25
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d01942723a62e4b901fdc7e458d30d
+      internalID: 1612692070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_26
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1476
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abd3a659b89f5644a9efc8987a7fd19
+      internalID: -846876495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fcbaba4bf30f84ca1f02e86404cbb7
+      internalID: -154245340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_28
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8054a055e977345ac270afbf7f243a
+      internalID: 902764415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_29
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9e320409d00064cb5f254f9d281c6d
+      internalID: -1709031492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_30
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9e050a3a1082848aa94bc6066f8332
+      internalID: 501176929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_31
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6dd5cd753e2664b828ddcb7cde9f30
+      internalID: 533598211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_32
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e7a68dbc53aa4481e75beca614426
+      internalID: -112314093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_33
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162fa71885d0e304bb4f61a2182ac28d
+      internalID: 826874755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_34
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523c26f5dab40b240bbf39150adf6290
+      internalID: -1919057828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_35
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1107
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eaf70231d10ba4ba6201f441a01822
+      internalID: -717296096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b24d17cc80a1e47ad25e38b6123c52
+      internalID: 2046466807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfbb92141ced08429ed0add830f3017
+      internalID: -2134392883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_38
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fb4600ef2135b4b88edf3833849c0c
+      internalID: 1698225196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_39
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acd5e654b39a014abbffd47aa9fc82c
+      internalID: 2092936793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_40
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce481e0101d5e4088d244bdb977649
+      internalID: -488642600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_41
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438fca8ec4c92b145bcb7b9a70c64844
+      internalID: 1085251806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_42
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fdbed3812059045ba0cbd50f87077a
+      internalID: -1701728229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_43
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b4a8747a284242a945494cfca154d
+      internalID: 1444338115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_44
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 738
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58de71500faab4c83eacfe97acc2f5
+      internalID: 295807934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c319bea824e242b70bc907e29417b
+      internalID: 1797681387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb8ea70d2a9b3e4cbcad506095e4f0e
+      internalID: 32689565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_47
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd10794100d1e44bba0cd6d5e0e4609
+      internalID: 1999176665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_48
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f6d21b92956344bb7089602df5f1e8
+      internalID: 1892750358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_49
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79738345a4474645ba290e2cf20ed95
+      internalID: -81555239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_50
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b6271d35776064fa1c11a4ad38ca04
+      internalID: 319848317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_51
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f32563230f40549840b83e7255b115
+      internalID: -1743591947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_52
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3614c5439930f34687d42b49cfbd02b
+      internalID: -540322174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_53
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 369
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cbe39be02c0a0468fe9035de44cd1f
+      internalID: 2018209281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8375d914aabcd4041865b5e260adf110
+      internalID: -899034551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a794906b76c146bc8f2a6e1a642c7
+      internalID: 713990019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_56
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7226eebbf8f782342b3ea6aab49ef835
+      internalID: -115945835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_57
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d07711dd197740b085eee74c2e9d5
+      internalID: 1339820563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_58
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 0
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde142c865e5ad4685106b6fbfc7375
+      internalID: 1322721269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Worm_1_421x369_59
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 0
+        width: 421
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b08aa04b7a17c04889cced759b65e64
+      internalID: -403816668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Effect_Worm_1_421x369_0: 293073708
+      Effect_Worm_1_421x369_1: 159801533
+      Effect_Worm_1_421x369_10: -1228751643
+      Effect_Worm_1_421x369_11: -330138642
+      Effect_Worm_1_421x369_12: 1472731015
+      Effect_Worm_1_421x369_13: 1482901570
+      Effect_Worm_1_421x369_14: 362445221
+      Effect_Worm_1_421x369_15: -393352999
+      Effect_Worm_1_421x369_16: 2040108450
+      Effect_Worm_1_421x369_17: -2000024473
+      Effect_Worm_1_421x369_18: -490403802
+      Effect_Worm_1_421x369_19: -74937626
+      Effect_Worm_1_421x369_2: 411643359
+      Effect_Worm_1_421x369_20: -524593096
+      Effect_Worm_1_421x369_21: -2065402473
+      Effect_Worm_1_421x369_22: 2133828134
+      Effect_Worm_1_421x369_23: 42511041
+      Effect_Worm_1_421x369_24: -1474577638
+      Effect_Worm_1_421x369_25: 1612692070
+      Effect_Worm_1_421x369_26: -846876495
+      Effect_Worm_1_421x369_27: -154245340
+      Effect_Worm_1_421x369_28: 902764415
+      Effect_Worm_1_421x369_29: -1709031492
+      Effect_Worm_1_421x369_3: -419177975
+      Effect_Worm_1_421x369_30: 501176929
+      Effect_Worm_1_421x369_31: 533598211
+      Effect_Worm_1_421x369_32: -112314093
+      Effect_Worm_1_421x369_33: 826874755
+      Effect_Worm_1_421x369_34: -1919057828
+      Effect_Worm_1_421x369_35: -717296096
+      Effect_Worm_1_421x369_36: 2046466807
+      Effect_Worm_1_421x369_37: -2134392883
+      Effect_Worm_1_421x369_38: 1698225196
+      Effect_Worm_1_421x369_39: 2092936793
+      Effect_Worm_1_421x369_4: 541947171
+      Effect_Worm_1_421x369_40: -488642600
+      Effect_Worm_1_421x369_41: 1085251806
+      Effect_Worm_1_421x369_42: -1701728229
+      Effect_Worm_1_421x369_43: 1444338115
+      Effect_Worm_1_421x369_44: 295807934
+      Effect_Worm_1_421x369_45: 1797681387
+      Effect_Worm_1_421x369_46: 32689565
+      Effect_Worm_1_421x369_47: 1999176665
+      Effect_Worm_1_421x369_48: 1892750358
+      Effect_Worm_1_421x369_49: -81555239
+      Effect_Worm_1_421x369_5: 529759397
+      Effect_Worm_1_421x369_50: 319848317
+      Effect_Worm_1_421x369_51: -1743591947
+      Effect_Worm_1_421x369_52: -540322174
+      Effect_Worm_1_421x369_53: 2018209281
+      Effect_Worm_1_421x369_54: -899034551
+      Effect_Worm_1_421x369_55: 713990019
+      Effect_Worm_1_421x369_56: -115945835
+      Effect_Worm_1_421x369_57: 1339820563
+      Effect_Worm_1_421x369_58: 1322721269
+      Effect_Worm_1_421x369_59: -403816668
+      Effect_Worm_1_421x369_6: 635998916
+      Effect_Worm_1_421x369_7: 1129869909
+      Effect_Worm_1_421x369_8: -1606929034
+      Effect_Worm_1_421x369_9: -413486661
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

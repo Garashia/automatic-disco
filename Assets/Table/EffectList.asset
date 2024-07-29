@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3593059e703c5b4da086d4b2c7b10fb, type: 3}
+  m_Name: EffectList
+  m_EditorClassIdentifier: 
+  m_effect:
+  - effect: {fileID: 3679410122035714471, guid: 1fafc65ebc9caae44909cb46416f6e31, type: 3}
+    effectName: BigHit
+  - effect: {fileID: 3004621009785645663, guid: b0ba8f3492494ea438257b89d9d4659b, type: 3}
+    effectName: Anima
+  - effect: {fileID: 5683954221932252123, guid: 9f1b24f96d24e3941b70971110dbb4fa, type: 3}
+    effectName: BloodImpact
+  - effect: {fileID: 8034890203841689406, guid: 1ff76c2d6c9d4c24796a6abcf2cb3f91, type: 3}
+    effectName: Impact
+  - effect: {fileID: 5740779301203021489, guid: 6966f2c65c8d396439c91c245e831fde, type: 3}
+    effectName: SmallHit
+  - effect: {fileID: 2382021780320511397, guid: 5f2be771ac6c6964183e5a9609297fbc, type: 3}
+    effectName: Charged
+  - effect: {fileID: 7376476046894501228, guid: 343efad114ca57c45a22aac1704f94e7, type: 3}
+    effectName: Constellation
+  - effect: {fileID: 5180826142202858296, guid: 0c5cc2ea7da645e4c8fb04343b758b15, type: 3}
+    effectName: DitheredFire
+  - effect: {fileID: 3306930392725228816, guid: bed1ebce8aa12d74fb315fa11852c9d6, type: 3}
+    effectName: EldenRing
+  - effect: {fileID: 5737004724033431882, guid: 6c003aedb3a527443a4cca4077098ee9, type: 3}
+    effectName: ElectricShield
+  - effect: {fileID: 8177864853275459386, guid: 03a35b30c6ddacd438563e1e5c86bfbe, type: 3}
+    effectName: Explosion2
+  - effect: {fileID: 4431739532965196632, guid: 52baa6fbb7876cf4e987784a2f22d36c, type: 3}
+    effectName: Explosion
+  - effect: {fileID: 2320871243775706202, guid: acbc8b2d314c44e4e8e10745596a8c87, type: 3}
+    effectName: FastPixelFire
+  - effect: {fileID: 579191330583952546, guid: 0bd986f07d80f4b44a7e1df2e4ba8d7e, type: 3}
+    effectName: Hyperspeed
+  - effect: {fileID: 4704214691615003038, guid: fb5b9e1c9e1a6c545bcee80776a57a4c, type: 3}
+    effectName: Kabooms
+  - effect: {fileID: 8073501882921944388, guid: 1a2ed85da20332644870e694ea892fc0, type: 3}
+    effectName: Magma
+  - effect: {fileID: 7129691719533997868, guid: 63638564b70eb7e499aa5b89bc8783ff, type: 3}
+    effectName: PowerChords
+  - effect: {fileID: 2125681661860434298, guid: 0da1a77749d7f2144b599c76518de5ba, type: 3}
+    effectName: PuffAndStars
+  - effect: {fileID: 5601121824636298640, guid: 74df31f1a090af94a8c9adbaa35a9b54, type: 3}
+    effectName: Tentacles
+  - effect: {fileID: 2642442645327098398, guid: 76f5f04350e440b468f4a1371954a36f, type: 3}
+    effectName: TheVortex
+  - effect: {fileID: 2656825046127821755, guid: 56e83375ea84a3942b36cdb6b4fdcac8, type: 3}
+    effectName: Wheel
+  - effect: {fileID: 7858196956607073910, guid: f421121f99194a942bb76737487801d5, type: 3}
+    effectName: Worm
+  - effect: {fileID: 1290225982196257844, guid: 326eaf963cdd6ee44a5e7247e0446ad7, type: 3}
+    effectName: bolt
+  - effect: {fileID: 7874340422058233851, guid: 7c755d6356f6c464e939f9f2f5390920, type: 3}
+    effectName: charged
+  - effect: {fileID: 3165447129506841747, guid: b37c52e8ed26a10439e25e231843a729, type: 3}
+    effectName: crossed
+  - effect: {fileID: 7622396796002560301, guid: ef1018ef7741cd1458d6200efb67f616, type: 3}
+    effectName: hit-1
+  - effect: {fileID: 3516494306322994882, guid: 1b438407a819fc34390280e3e8aa9edf, type: 3}
+    effectName: hit-2
+  - effect: {fileID: 5800774726594219111, guid: 832d8f4758ad3be4f98709cf70f4634b, type: 3}
+    effectName: hit-4
+  - effect: {fileID: 7744510858450935013, guid: 4977fdee4e296d74a89191261c8d74cd, type: 3}
+    effectName: hit-4
+  - effect: {fileID: 3576201738729793403, guid: ae2975b3c9b041e428921fe4579521d4, type: 3}
+    effectName: hit-5
+  - effect: {fileID: 6515330918564621299, guid: 7e6689dff5146b84898755cfdb186565, type: 3}
+    effectName: hit-6
+  - effect: {fileID: 7643470662816687963, guid: 2b2b830b0ada60d44bba07f4656e1272, type: 3}
+    effectName: pulse
+  - effect: {fileID: 5073232786793245035, guid: 4f691b25aafd0294cbeafa646fc7d498, type: 3}
+    effectName: spark-preview
+  - effect: {fileID: 8116268335418147586, guid: 51892cf4444ff0640955cd86d401ad41, type: 3}
+    effectName: waveform
+  - effect: {fileID: 4993772251060902660, guid: d0442ab858041df40a096d2e6414b107, type: 3}
+    effectName: frame1
+  - effect: {fileID: 7529336420574518601, guid: 7dd5fe49ae6322e499b4cdd721ab2ec7, type: 3}
+    effectName: frame2
+  - effect: {fileID: 5394986603132858076, guid: bb0ea6858230faf4d84eed72945bbb2e, type: 3}
+    effectName: frame3
+  - effect: {fileID: 6929897542826351785, guid: bb6884ae5dec1b64093d08287a647a7f, type: 3}
+    effectName: frame4
